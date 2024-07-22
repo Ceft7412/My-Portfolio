@@ -1,0 +1,38 @@
+[
+  {
+    "githubLink": "https://github.com/Ceft7412/EPUB-Reader",
+    "demoLink": "https://epub-reader-three.vercel.app/",
+    "logo": "assets/logo/epub-reader.png",
+    "description": "An epub extension reader implementing the epubjs library. Customizable theme and fonts. And an integration of an MP3 player",
+    "title": "EPUB Reader",
+    "backgroundColor": "",
+    "stack": "React.js, Context API, epub.js, Sass, TailwindCSS"
+  },
+  {
+    "githubLink": "https://github.com/Ceft7412/pomodoro-master",
+    "demoLink": "https://pomodoro-master.vercel.app/",
+    "logo": "assets/logo/pomodoro-master.png",
+    "description": "Aesthetic pomodoro timer website. It implements customizing the background images and font styles",
+    "title": "Pomodoro Master",
+    "backgroundColor": "",
+    "stack": "Next.js, Context API, React.js, Sass"
+  },
+  {
+    "githubLink": "https://github.com/Ceft7412/music-player",
+    "demoLink": "https://linger-music.vercel.app/",
+    "logo": "assets/logo/linger.png",
+    "description": "Music player that accepts different kinds of file extension such as Mp3 and MAV. ",
+    "title": "Linger",
+    "backgroundColor": "",
+    "stack": "React.js, Context API, Sass"
+  },
+  {
+    "githubLink": "https://github.com/Ceft7412/cine-vista",
+    "demoLink": "https://cine-vista-six.vercel.app/",
+    "logo": "assets/logo/cine-vista.png",
+    "description": "Movie application that displays the list of movies coming from an API called The Movie Database. It includes a search option alongside of a filtering on movie name and genres",
+    "title": "CineVista",
+    "backgroundColor": "",
+    "stack": "React.js, Context API, TheMovieDB API"
+  }
+]
