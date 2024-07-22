@@ -122,6 +122,7 @@
         height: 100%;
         align-items: center;
         gap: 10px;
+
         @include response-to(sm401) {
           gap: 0;
         }
@@ -135,6 +136,8 @@
           display: flex;
           align-items: center;
           justify-content: center;
+          text-decoration: none;
+          color: inherit;
           gap: 10px;
           @include response-to(sm401) {
             flex-direction: column;
