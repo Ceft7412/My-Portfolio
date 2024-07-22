@@ -1,0 +1,61 @@
+{
+  "Languages and Databases": [
+    {
+      "src": "https://skillicons.dev/icons?i=html",
+      "name": "HTML"
+    },
+    {
+      "src": "https://skillicons.dev/icons?i=css",
+      "name": "CSS"
+    },
+    {
+      "src": "https://skillicons.dev/icons?i=javascript",
+      "name": "JavaScript"
+    },
+    {
+      "src": "https://skillicons.dev/icons?i=php",
+      "name": "PHP"
+    },
+    {
+      "src": "https://skillicons.dev/icons?i=mysql",
+      "name": "MySQL"
+    },
+    {
+      "src": "https://skillicons.dev/icons?i=mongodb",
+      "name": "MongoDB"
+    }
+  ],
+  "Libraries and Frameworks": [
+    {
+      "src": "https://skillicons.dev/icons?i=react",
+      "name": "React"
+    },
+    {
+      "src": "https://skillicons.dev/icons?i=nextjs",
+      "name": "Next.js"
+    },
+
+    {
+      "src": "https://skillicons.dev/icons?i=laravel",
+      "name": "Laravel"
+    },
+    {
+      "src": "https://skillicons.dev/icons?i=tailwindcss",
+      "name": "Tailwind CSS"
+    },
+    {
+      "src": "https://skillicons.dev/icons?i=bootstrap",
+      "name": "Bootstrap"
+    }
+  ],
+  "Other": [
+    {
+      "src": "https://skillicons.dev/icons?i=git",
+      "name": "Git"
+    },
+    {
+      "src": "https://skillicons.dev/icons?i=sass",
+      "name": "Sass"
+    }
+  ]
+}

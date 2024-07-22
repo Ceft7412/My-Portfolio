@@ -20,11 +20,11 @@ function Section1() {
           </div>
           <div className="section-1-block__footer">
             <div className="section-1-footer__flex">
-              {/* <div className="section-1-footer__item">
-                <MdEmail fontSize={31} />
+                {/* <div className="section-1-footer__item">
+                  <MdEmail fontSize={31} />
 
-                <span>Email</span>
-              </div> */}
+                  <span>Email</span>
+                </div> */}
               <a
                 href="https://www.linkedin.com/in/cedrick-caceres-22b8612b4/"
                 target="_blank"

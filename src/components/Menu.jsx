@@ -43,14 +43,18 @@ function Menu() {
             >
               Projects
             </a>
-            {/* <a className={`menu__text ${darkTheme ? "menu__hover-dark" : ""}`}>
-              Achievements
-            </a> */}
+
             <a
               href="#about"
               className={`menu__text ${darkTheme ? "menu__hover-dark" : ""}`}
             >
               About
+            </a>
+            <a
+              href="#skills"
+              className={`menu__text ${darkTheme ? "menu__hover-dark" : ""}`}
+            >
+              Skills
             </a>
             <span
               className={`menu__text menu-icon__container ${

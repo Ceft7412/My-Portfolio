@@ -93,6 +93,24 @@
               rgba(245, 245, 245, 0.616) 100%
             );
           }
+          &:after {
+            content: "";
+            display: block;
+            top: -2px;
+            left: -2px;
+            bottom: -1px;
+            right: -1px;
+            z-index: -1;
+            position: absolute;
+            border-radius: 10px;
+            background-image: linear-gradient(
+              135deg,
+              #d3d3d3,
+              rgb(243, 243, 243) 30%,
+              rgb(243, 243, 243) 40%,
+              rgba(245, 245, 245, 0.616) 100%
+            );
+          }
           &.section-3-item-logo__darker {
             background: radial-gradient(rgb(32, 32, 39), rgb(24, 24, 30));
             &:before {
@@ -132,24 +150,7 @@
               );
             }
           }
-          &:after {
-            content: "";
-            display: block;
-            top: -2px;
-            left: -2px;
-            bottom: -1px;
-            right: -1px;
-            z-index: -1;
-            position: absolute;
-            border-radius: 10px;
-            background-image: linear-gradient(
-              135deg,
-              #d3d3d3,
-              rgb(243, 243, 243) 30%,
-              rgb(243, 243, 243) 40%,
-              rgba(245, 245, 245, 0.616) 100%
-            );
-          }
+          
 
           .section-3-item__picture {
             width: 60%;
