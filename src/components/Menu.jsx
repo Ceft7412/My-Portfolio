@@ -56,6 +56,13 @@ function Menu() {
             >
               Skills
             </a>
+            <a
+              className={`menu__text ${darkTheme ? "menu__hover-dark" : ""}`}
+              href="https://helloworldblog.vercel.app/"
+              target="_blank"
+            >
+              Blogs
+            </a>
             <span
               className={`menu__text menu-icon__container ${
                 darkTheme ? "menu__hover-dark" : ""
